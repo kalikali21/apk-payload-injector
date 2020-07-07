@@ -2,26 +2,26 @@
 TBomb - Call and SMS Bomber
 
    
-             DJ HACKER
+           BY  DJ HACKER
               
 
  
 
-pkg install git
+# pkg install git
 
-pkg install python
+# pkg install python
 
-git clone https://github.com/TheSpeedX/TBomb.git
+# git clone https://github.com/TheSpeedX/TBomb.git
 
-cd TBomb
+# cd TBomb
 
-chmod +x TBomb.sh
+# chmod +x TBomb.sh
 
-./TBomb.sh
+# ./TBomb.sh
 
  
 
-YOUTUBE CHANNEL : https://www.youtube.com/channel/UC2T3N5dNwe349pVkDYCR5Rw
+# YOUTUBE CHANNEL : https://www.youtube.com/channel/UC2T3N5dNwe349pVkDYCR5Rw
 
-TELEGRAM  : https://t.me/joinchat/AAAAAEffSIsOIKquZ4jd0g
+# TELEGRAM  : https://t.me/joinchat/AAAAAEffSIsOIKquZ4jd0g
 
