@@ -1,9 +1,9 @@
-                      DJ hacker
+                     
 TBomb - Call and SMS Bomber
 
    
-
-              Created By  CREATIVE HACKERZ
+             DJ HACKER
+              
 
  
 
